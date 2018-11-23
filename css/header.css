@@ -12,6 +12,7 @@
 
 .top-header .header__top {
   margin-bottom: 15px;
+  font-size: 12px;
 }
 
 .top-header .header__bottom {
@@ -24,4 +25,12 @@
 
 .top-header .header__column:last-child {
   text-align: right;
+}
+
+.top-header .header__column:nth-child(2) {
+  text-align: center;
+}
+
+.top-header .header__number {
+  color: yellow;
 }
