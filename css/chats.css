@@ -1,0 +1,16 @@
+.chats .chats__list {
+  border-top: 1px solid #ebebeb;
+  }
+
+.chats__list .chats__chat{
+  padding: 15px;
+}
+
+.chat__chat .chat__content img{
+  width: 50px;
+  border-radius: 50%;
+}
+
+.chats__list .chat__chat a{
+  display: flex;
+}

@@ -23,3 +23,20 @@
   text-decoration: none;
   color: inherit;
 }
+
+.friends__section-column {
+  display: flex;
+  align-items: center;
+}
+
+.friends__section-row.with-tagline {
+  justify-content: space-between;
+  }
+
+  .friends__section-tagline {
+    font-size: 10px;
+    background: #f0f0f0;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: #939393;
+  }
