@@ -1,0 +1,9 @@
+.more {
+  background-color: #f2f2f2;
+}
+
+.more .more__header {
+  background-color: white;
+  padding: 15px;
+  
+}
