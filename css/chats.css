@@ -21,7 +21,7 @@
 .chats__list .chats__chat a {
   display: flex;
   justify-content: space-between;
-  text-decoration:: none;
+  text-decoration: none;
   color: inherit;
 }
 
