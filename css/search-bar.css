@@ -12,10 +12,12 @@
   background-color: #f1f2f3;
   font-size: 13px;
   text-align: center;
+  
 }
 
 .search-bar input:focus {
-  outline-color: blue;
+  outline: none;
+  border: 1px solid #ffe94a;
 }
 
 .search-bar i {
